@@ -1,10 +1,13 @@
-<h1 align="center">Hi 👋, I'm Artiom</h1>
+### Hi, I'm Artiom 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/artiomleo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="artiomleo" height="30" width="40" /></a>
-</p>
+Senior frontend engineer at Insight. I mostly work in TypeScript, Vue and React,
+and these days a lot of it is AI: LLM features, RAG search, agents and MCP servers.
 
-<h3 align="left">Languages and Tools:</h3>
+- 🔭 Working on AI products and internal dev tools
+- 🧩 Into frontend architecture, design systems and accessibility
+- 🤖 Claude Code is my daily driver
+- ✍️ I write about AI coding agents on Medium
 
-[![My Skills](https://skillicons.dev/icons?i=azure,bash,bootstrap,css,docker,figma,git,githubactions,gulp,html,js,jquery,laravel,mongodb,mysql,netlify,nextjs,nuxtjs,php,postman,react,sass,sentry,svg,tailwind,ts,vite,vue,webpack&perline=15)](https://skillicons.dev)
+TypeScript · Vue · React · Vite · Node.js · Laravel
+
+[artiomleo.com](https://artiomleo.com) · [LinkedIn](https://www.linkedin.com/in/artiomleo/) · [Peerlist](https://peerlist.io/artiomleo) · [Medium](https://medium.com/@artiomleo) · [Threads](https://www.threads.com/@artiomleo12)
